@@ -1,2 +1,4 @@
 # Agropredict
-Agropredict is an innovative project designed to apply data-driven techniques for enhancing agricultural decision-making.
+Agropredict is an innovative project that applies data-driven techniques to enhance agricultural decision-making. 
+
+***
